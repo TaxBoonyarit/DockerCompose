@@ -9,3 +9,4 @@
   - elasticsearch
   - kibana
 - etc
+  - syslog-ng with output kafka
